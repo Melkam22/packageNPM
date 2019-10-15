@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melkam22/packageNPM.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Melkam22/packageNPM/issues"
+  },
+  "homepage": "https://github.com/Melkam22/packageNPM#readme"
 }
